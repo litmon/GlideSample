@@ -1,3 +1,3 @@
-# GifSample
+# GlideSample
 
 ![](images/sample.gif)
