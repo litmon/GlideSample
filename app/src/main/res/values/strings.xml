@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glide Sample</string>
+    <string name="load_with_transition_drawable">Load with transition drawable</string>
+    <string name="load_with_linear">Load with linear</string>
+    <string name="load_with_accelerate_decelerate">Load with accelerate_decelerate</string>
+    <string name="load_with_decelerate">Load with decelerate</string>
+    <string name="load_with_accelerate">Load with accelerate</string>
+    <string name="load_without_animation">Load without animation</string>
+    <string name="load_with_cross_fade">Load with cross fade</string>
+</resources>
