@@ -1,0 +1,3 @@
+# GifSample
+
+![](images/sample.gif)
